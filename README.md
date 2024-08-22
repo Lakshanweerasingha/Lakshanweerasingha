@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanweerasingha&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanweerasingha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshanweerasingha" alt="lakshanweerasingha" /></a> </p>
-
 - 🌱 I’m currently learning **Python and .Net**
 
 - 📝 I regularly write articles on [https://medium.com/@maduwanthalakshan03](https://medium.com/@maduwanthalakshan03)

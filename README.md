@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PHP, Java and Python**
 
-- 👨‍💻 All of my projects are available at [https://lakshanweerasingha.github.io/github-portfolio/](https://lakshanweerasingha.github.io/github-portfolio/)
-
 - 📝 I regularly write articles on [https://medium.com/@maduwanthalakshan03](https://medium.com/@maduwanthalakshan03)
 
 - 💬 Ask me about **Javascript, PHP and Java**

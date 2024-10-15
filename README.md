@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanweerasingha&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanweerasingha" /> </p>
 
-- 🌱 I’m currently learning **PHP, Java and Python**
+- 🌱 I’m currently learning **Laravel, Express.js, .Net and Python**
 
 - 📝 I regularly write articles on [https://medium.com/@maduwanthalakshan03](https://medium.com/@maduwanthalakshan03)
 

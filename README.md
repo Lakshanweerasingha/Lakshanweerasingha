@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanweerasingha&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanweerasingha" /> </p>
 
-- 🌱 I’m currently expanding my skills in **Selenium, Appium, .NET, and Python** to strengthen both development and QA automation capabilities.  
+- 🌱 I’m currently expanding my skills in **Selenium, Appium, .NET, and Java** to strengthen both development and QA automation capabilities.  
 - 🌐 My Website is [https://lakshanweerasingha.github.io](https://lakshanweerasingha.github.io)  
 - 📝 I regularly write articles on [https://medium.com/@maduwanthalakshan03](https://medium.com/@maduwanthalakshan03)  
 - 💬 Ask me about **Full Stack Development, Test Automation, and Agile practices**  
